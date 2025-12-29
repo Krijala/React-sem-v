@@ -8,7 +8,7 @@ const postdata =async (data) => {
 
 const Post = () => {
     return (
-        <div>Post</div>
+        <div>Posts</div>
     )
 }
 
